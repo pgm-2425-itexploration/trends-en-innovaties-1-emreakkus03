@@ -1,0 +1,29 @@
+{
+    "aboutPage": {
+      "title": "About Belgium",
+      "introduction": "Welcome to our portfolio site dedicated to the beautiful country of Belgium. Discover its rich history, diverse culture, and stunning landmarks.",
+      "sections": [
+        {
+          "heading": "History",
+          "content": "Belgium has a fascinating history, from its origins as a collection of medieval principalities to its role in the European Union today. It gained independence in 1830 and has since grown into a thriving constitutional monarchy."
+        },
+        {
+          "heading": "Culture",
+          "content": "Known for its diversity, Belgium has three official languages: Dutch, French, and German. The country is also famous for its delicious cuisine, including waffles, chocolate, and beer."
+        },
+        {
+          "heading": "Landmarks",
+          "content": "Belgium is home to breathtaking landmarks like the Grand Place in Brussels, the medieval city of Bruges, and the iconic Atomium."
+        },
+        {
+          "heading": "Fun Facts",
+          "content": "Did you know that Belgium has more castles per square kilometer than any other country in the world? It's also where the saxophone was invented!"
+        }
+      ],
+      "callToAction": {
+        "text": "Want to learn more? Explore the other pages to dive deeper into Belgium's wonders.",
+        "link": "/explore"
+      }
+    }
+  }
+  
